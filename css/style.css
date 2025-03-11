@@ -3,6 +3,7 @@
     src: url(../space_age/spaceage.ttf);
 }
 
+
 body {
     text-align: center;
     background-image: url("../images/backgroud.jpg");
@@ -11,7 +12,7 @@ body {
 h1 {
     text-align: center;
     font-size: 25px;
-    font-family: myFirstFont;
+    font-family: "Orbitron", sans-serif;
 }
 
 img {
