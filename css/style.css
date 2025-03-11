@@ -3,15 +3,14 @@ img {
     height: 50%;
     float: right;
 }
-.planets{
+.planets, td {
     margin-left: auto;
     margin-right: auto;
+    border: 1px solid;
+    text-align: center;
 }
 th {
     float: left;
     border: 1px solid;
+    text-align: center;
 }
-
-table, td {
-    border: 1px solid;
-  }
