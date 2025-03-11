@@ -1,7 +1,7 @@
 img {
     width: 50%;
     height: 50%;
-    float: right;
+    float: center;
 }
 .planets, td {
     margin-left: auto;
