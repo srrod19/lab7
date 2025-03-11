@@ -11,7 +11,7 @@ h1, img {
     color: #6081FB;
     height: 15%;
     width: 15%;
-    float: center;
+    display: inline-block;
 }
 
 img {
