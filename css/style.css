@@ -1,6 +1,7 @@
 body {
     text-align: center;
 }
+
 h1 {
     text-align: center;
 }
@@ -23,14 +24,11 @@ img {
 strong{
     font-weight: bold;
 }
+
 th {
     border: 1px solid;
     padding: 10px;
     background-color: #B1B0D4;
-}
-
-tr:nth-child(even) {
-    background-color: #E1B7C3
 }
 
 tr:nth-child(odd) {
