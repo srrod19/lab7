@@ -24,7 +24,7 @@ img {
     background-color: #B1B0D4;
     width: 50%;
     height: auto;
-    opacity: 45%;
+    opacity: 0.45;
 }
 
 td {
@@ -32,7 +32,7 @@ td {
     padding: 10px;
     background-color: #E1B7C3;
     text-align: center;
-    opacity: 45%;
+    opacity: 0.45;
 }
 
 strong{
