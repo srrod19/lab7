@@ -3,6 +3,8 @@ body {
     background-image: url("../images/backgroud.jpg");
     background-position: center;
     background-size: cover;
+    width: 50%;
+    height: auto;
 }
 
 h1, img {
