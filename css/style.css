@@ -4,11 +4,13 @@ body {
     background-position: center;
 }
 
-h1 {
+h1, img {
     text-align: center;
     font-size: 25px;
     font-family: "Orbitron", sans-serif;
     color: #6081FB;
+    height: 15%;
+    width: 15%;
 }
 
 img {
