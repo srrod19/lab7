@@ -1,11 +1,11 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(spaceage.ttf);
+    src: url(../space_age/spaceage.ttf);
 }
 
 body {
     text-align: center;
-    background-image: url("images/backgroud.jpg");
+    background-image: url("../images/backgroud.jpg");
 }
 
 h1 {
